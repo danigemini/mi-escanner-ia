@@ -1,0 +1,7 @@
+{
+  "name": "BookSpine AI Scanner",
+  "description": "Analiza pilas de libros usando IA para extraer títulos y autores, creando una base de datos editable para ventas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
